@@ -3,10 +3,6 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-.navbar-ul {
-    display: inline-block;
-}
-
 nav a {
   color: #293462;
   font-size: 16px;
@@ -20,6 +16,11 @@ nav a {
 
 nav a:hover {
     color: #D61C4E;
+}
+
+
+.navbar-brand img {
+    height: 40px;
 }
 
 #home-anchor-nav {
