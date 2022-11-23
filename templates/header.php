@@ -23,8 +23,8 @@
         <a class="navbar-brand" href="<?= $BASE_URL ?>index.php"><img src="<?= $BASE_URL ?>img/favicon.png" alt="Code Icon"></a>
 
         <div class="navbar-nav">
-            <a class="nav-link" href="#">Sobre</a>
+            <a class="nav-link" href="<?= $BASE_URL ?>sobre.php">Sobre</a>
             <a class="nav-link" href="#">Posts</a>
-            <a class="nav-link" href="#">Contatos</a>
+            <a class="nav-link" href="<?= $BASE_URL ?>contato.php">Contatos</a>
         </div>
     </nav>
